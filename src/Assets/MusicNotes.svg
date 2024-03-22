@@ -1,0 +1,8 @@
+<svg width="101" height="101" viewBox="0 0 101 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="MusicNotes">
+<path id="Vector" d="M70.8125 78.625C76.8531 78.625 81.75 73.7281 81.75 67.6875C81.75 61.6469 76.8531 56.75 70.8125 56.75C64.7719 56.75 59.875 61.6469 59.875 67.6875C59.875 73.7281 64.7719 78.625 70.8125 78.625Z" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M20.8125 91.125C26.8531 91.125 31.75 86.2281 31.75 80.1875C31.75 74.1469 26.8531 69.25 20.8125 69.25C14.7719 69.25 9.875 74.1469 9.875 80.1875C9.875 86.2281 14.7719 91.125 20.8125 91.125Z" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M81.75 31.75L31.75 44.25" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M31.75 80.1875V25.5L81.75 13V67.6875" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+.div-container {
+  width: 300px; /* Set the desired width for the div */
+  height: 200px; /* Set the desired height for the div */
+  border: 1px solid #ccc; /* Optional border for the div */
+  display: flex; /* Use flexbox for alignment */
+  justify-content: center; /* Horizontally center the image */
+  align-items: center; /* Vertically center the image */
+  overflow: hidden; /* Hide overflowing content */
+}
